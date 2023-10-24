@@ -3,3 +3,4 @@ Ejercicio2 24oct
 
 
 esto es un pull
+no me sale
